@@ -814,5 +814,17 @@ properly.
     margin-right: 5px;
 }
 
+header {
+   position: fixed;
+   top: 20px;
+   right: 20px;
+   z-index: 9999; /* Stellen Sie sicher, dass der Header über anderen Inhalten liegt */
+   text-align: right; /* Ausrichtung des Textes rechts */
+}
+
+.responsive-headline {
+   font-size: 24px; /* Anpassen der Schriftgröße nach Bedarf */
+   margin: 0; /* Entfernen von überflüssigem Abstand um den Titel */
+}
 
 

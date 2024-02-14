@@ -801,7 +801,18 @@ properly.
 	margin-right: auto !important;
 	text-align: center !important;
 }
+.contact-info {
+    font-size: 16px;
+}
 
+.contact-item {
+    margin-bottom: 10px;
+}
+
+.contact-item strong {
+    font-weight: bold;
+    margin-right: 5px;
+}
 
 
 

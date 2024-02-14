@@ -30,7 +30,7 @@ body { background: #0f0f0f; }
 
 header {
    position: relative;
-   height: 2160px; 
+   height: 800px; 
    min-height: 500px;
    width: 100%;
    background: #161415 url(../image/coding-2.jpg) no-repeat center center;

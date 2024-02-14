@@ -30,12 +30,12 @@ body { background: #0f0f0f; }
 
 header {
    position: relative;
-   height: 2160px;;
+   height: 2160px; /* Höhe entsprechend der Höhe des Hintergrundbildes */
    min-height: 500px;
    width: 100%;
    background: #161415 url(../image/coding-2.jpg) no-repeat top center;
-   background-size: cover !important;
-   -webkit-background-size: cover !important;
+   background-size: 3840px 2160px; /* Hintergrundbildgröße auf die Bildgröße einstellen */
+   -webkit-background-size: 3840px 2160px;
    text-align: center;
    overflow: hidden;
 }

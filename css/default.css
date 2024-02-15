@@ -816,8 +816,8 @@ properly.
 
 header {
    position: fixed;
-   top: 20px;
-   right: 20px;
+/*    top: 20px;
+   right: 20px; */
    z-index: 9999; /* Stellen Sie sicher, dass der Header über anderen Inhalten liegt */
    text-align: right; /* Ausrichtung des Textes rechts */
 }

@@ -601,6 +601,10 @@ input[type="checkbox"] { display: inline; }
     border-bottom: 2px solid #11ABB0;
     margin-bottom: 48px;
 }
+.row.hobby {
+    border-bottom: 2px solid #11ABB0;
+    margin-bottom: 48px;
+}
 /* fixed width for IE8 */
 .ie .row { width: 1000px ; }
 

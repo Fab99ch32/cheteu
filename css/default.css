@@ -597,6 +597,9 @@ input[type="checkbox"] { display: inline; }
 /*    max-width: 1020px; */
    margin: 0 auto;
 }
+.row.skill {
+    border-bottom: 2px solid #11ABB0;
+}
 /* fixed width for IE8 */
 .ie .row { width: 1000px ; }
 
